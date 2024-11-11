@@ -1,6 +1,6 @@
 <script setup lang="ts">
 definePageMeta({
-  title: 'About use-bootstrap',
+  title: 'About zukann',
   description: 'Quickly get a project started with any of our examples ranging from using parts of the framework to custom components and layouts.'
 })
 </script>
@@ -13,7 +13,7 @@ definePageMeta({
         :type-speed="60" :loop="true" :back-speed="25" :back-delay="1500" />
     </b-h>
   </Background>
-  <h2>First step</h2>
-  <h2>Second step</h2>
+  <h2>楽しい</h2>
+  <h2>楽しくない</h2>
 
 </template>
