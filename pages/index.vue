@@ -1,7 +1,7 @@
 <script setup lang="ts">
 definePageMeta({
   layout: 'landing',
-  title: 'やあ！！',
+  title: 'UMA図鑑',
   description: 'Quickly get a project started with any of our examples ranging from using parts of the framework to custom components and layouts.'
 })
 </script>
