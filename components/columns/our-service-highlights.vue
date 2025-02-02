@@ -8,9 +8,9 @@
        >
         <Col border="end">
          <b-h level="3">
-          Our Services
+         未確認生物とは
          </b-h>
-         <b-p>Tailored solutions for modern businesses</b-p>
+         <b-p>科学的にその存在が確認されていない、または証拠が不十分な生物のことです。一般的に、これらの生物は目撃情報や噂、伝承などによって報告されますが、確固たる証拠がないため、未確認のままとされています。</b-p>
    
          <Row>
           <Col
@@ -18,16 +18,15 @@
           >
            <List unstyled>
             <ListItem
-             icon="bi:check-circle-fill"
+             icon=""
              text-color="success"
             >
-             Creative Designs
+           
             </ListItem>
             <ListItem
-             icon="bi:check-circle-fill"
+             icon=""
              text-color="success"
             >
-             Flexible Solutions
             </ListItem>
            </List>
           </Col>
@@ -35,42 +34,27 @@
           <Col>
            <List unstyled>
             <ListItem
-             icon="bi:check-circle-fill"
+             icon=""
              text-color="success"
             >
-             24/7 Assistance <badge
+            <badge
               background-color="secondary"
               rounded="pill"
              >
-              New
+            
              </badge>
             </ListItem>
             <ListItem
-             icon="bi:check-circle-fill"
+             icon=""
              text-color="success"
             >
-             Cloud Integration
+            
             </ListItem>
            </List>
           </Col>
          </Row>
         </Col>
-        <Col col="md-3">
-         <b-h level="4">
-          Service Highlights
-         </b-h>
-         <b-p text-color="secondary">
-          Discover the top features designed to meet your requirements.
-         </b-p>
-         <Anchor
-          icon="bi:chevron-right"
-          icon-end
-          to="/"
-          stretched-link
-         >
-          <b>Learn more</b>
-         </Anchor>
-        </Col>
+        
        </Row>
       </CardBody>
      </Card>
