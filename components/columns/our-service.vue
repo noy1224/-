@@ -33,7 +33,7 @@
    
        <CardFooter>
   <a
-    href="https://-upne--56754--d20a0a75.local-corp.webcontainer.io/docs"
+    href="https://-upne--3000--d20a0a75.local-corp.webcontainer.io/docs"
     target="_blank" 
     class="stretched-link"
   >
@@ -63,7 +63,7 @@
    
        <CardFooter>
   <a
-    href="https://-upne--56754--d20a0a75.local-corp.webcontainer.io/lang-en/localization"
+    href="https://-upne--3000--d20a0a75.local-corp.webcontainer.io/lang-en/localization"
     target="_blank" 
     class="stretched-link"
   >
@@ -95,7 +95,7 @@
    
        <CardFooter>
   <a
-    href="https://-upne--56754--d20a0a75.local-corp.webcontainer.io/docs"
+    href="https://-upne--3000--d20a0a75.local-corp.webcontainer.io/lang-en/localization"
     target="_blank" 
     class="stretched-link"
   >

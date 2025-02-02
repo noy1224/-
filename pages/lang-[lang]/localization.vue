@@ -2,7 +2,7 @@
     <Background video-src="" :overlay="true" overlay-color="rgba(0, 0, 0, 0.5)">
       <!-- ホームに戻るリンクを上に移動 -->
       <div class="text-center my-4">
-        <a href="https://-upne--56754--d20a0a75.local-corp.webcontainer.io" class="text-xl text-blue-500 hover:underline">
+        <a href="https://-upne--3000--d20a0a75.local-corp.webcontainer.io/" class="text-xl text-blue-500 hover:underline">
           ホームに戻る
         </a>
       </div>
